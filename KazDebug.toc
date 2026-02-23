@@ -1,7 +1,7 @@
 ## Interface: 120001
 ## Title: KazDebug
 ## Notes: Lua console — paste code, see results
-## Author: Kazeric
+## Author: Kaz (Claude Code) & Logan
 ## Version: 1.0.0
 ## X-Flavor: Mainline
 
