@@ -274,7 +274,6 @@ end
 -- Slash command
 SLASH_KAZDEBUG1 = "/kd"
 SLASH_KAZDEBUG2 = "/kazdebug"
-SLASH_KAZDEBUG3 = "/kdb"
 SlashCmdList["KAZDEBUG"] = function()
 	if not frame then
 		BuildFrame()
