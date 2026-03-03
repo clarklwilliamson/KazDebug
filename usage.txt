@@ -1,0 +1,11 @@
+KazDebug - In-game Lua console
+
+Commands:
+  /kd                 Toggle debug console
+  /kazdebug           Same as /kd
+
+  /kaz debug          Same as /kd
+
+Keyboard:
+  Ctrl+Enter          Run code
+  ESC                 Close window
