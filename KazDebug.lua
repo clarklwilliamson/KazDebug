@@ -288,4 +288,4 @@ SlashCmdList["KAZDEBUG"] = function()
 		inputBox:SetFocus()
 	end
 end
-KAZ_COMMANDS["debug"] = { handler = SlashCmdList["KAZDEBUG"], alias = "/kd", desc = "Lua console" }
+KAZ_COMMANDS["lua"] = { handler = SlashCmdList["KAZDEBUG"], alias = "/kd", desc = "Lua console" }
