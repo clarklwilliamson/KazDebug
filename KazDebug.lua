@@ -1,6 +1,7 @@
 local KazGUI = LibStub("KazGUILib-1.0")
 local C = KazGUI.Colors
 local K = KazGUI.Constants
+local Print = KazUtil.CreatePrinter("KazDebug")
 
 local MONO = "Fonts\\ARIALN.TTF"  -- narrow font for code input/output
 
@@ -38,7 +39,7 @@ local function StyleScrollBar(scrollFrame, scrollName)
 	end
 end
 
-print("|cffc8aa64KazDebug|r loaded — /kd to open")
+Print("loaded — /kd to open")
 
 local function BuildFrame()
 	frame = KazGUI:CreateFrame("KazDebugFrame", 700, 500, {
