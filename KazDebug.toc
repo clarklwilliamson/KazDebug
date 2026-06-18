@@ -1,4 +1,4 @@
-## Interface: 120001
+## Interface: 120007
 ## Category-enUS: Kaz
 ## Title: |cff00c0ffKaz|r Debug
 ## Notes: Lua console — paste code, see results
